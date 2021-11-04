@@ -1,0 +1,5 @@
+# Mac related stuff
+.DS_Store
+
+# pycharm related
+.idea/*
